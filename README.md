@@ -1,15 +1,6 @@
-# RecomenData
-Product Recomendation System applied in Retail company
-
-<!--
-  README.html — Executive, developer-grade summary for RecomenData.ipynb
-  Author: Equipo Automation (Marca y Estrategia Comercial TLS)
-  Purpose: GitHub-ready HTML summary of the notebook’s intent, pipeline, and key implementation details.
--->
-
 <article style="font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; line-height: 1.55; color: #0f172a;">
   <header>
-    <h1 style="margin-bottom: 0.25rem;">Product Recommendation System for Mass-Retail Customers</h1>
+    <h1 style="margin-bottom: 0.25rem;">Product Recommendation System for Massive Retail Customers</h1>
     <p style="margin: 0; color:#475569;">
       End-to-end data preparation, reporting, and collaborative filtering (ALS/PySpark) modeling, extracted from
       <code>RecomenData.ipynb</code>.
